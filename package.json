@@ -1,0 +1,25 @@
+{
+  "name": "color-palattes-js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "material-design-icons": "^3.0.1"
+  },
+  "description": "my version of colour palatte with hex",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "color-palatte-js"
+  },
+  "author": "Djeylani",
+  "license": "ISC"
+}
